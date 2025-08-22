@@ -28,6 +28,8 @@ Currently it has only been tested on Linux.
 
 ## To make:
 
+./autogen.sh
+./configure
 Type 'make all'.  This should build libsmpeg.a and plaympeg
 
 
